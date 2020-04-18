@@ -19,7 +19,7 @@ $('.project-figure').on('mouseover', function() {
 
 //hyperlinks
 $('.facebook').on('click', function() {
-  window.open('https://facebook.com/ornisphotography', '_blank');
+  window.open('https://www.facebook.com/ornisphotography', '_blank');
 });
 $('.linkedin').on('click', function() {
   window.open('https://linkedin.com/in/jamesrcrooke', '_blank');
